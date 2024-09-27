@@ -1,21 +1,19 @@
-Overview:\n
+**README**<Br>
+**Overview:**<br>
 This project analyzes the performance of online advertising campaigns using a dataset containing various metrics such as user engagement, clicks, displays, cost, revenue, and more. The analysis aims to answer several key questions about the effectiveness of different campaigns, banner sizes, placements, and other factors.
 
-Requirements
-
+**Requirements**<br>
 - Python 3.x
 - pandas
 - matplotlib
 - datetime
 
-Setup
-
+**Setup**<br>
 1. Clone the repository.
 2. Install the required Python packages: pandas, matplotlib and datetime
 3. Ensure the dataset is located at the specified path: The dataset worked on is in the repo.
 
-Analysis Questions
-
+**Analysis Questions:**<br>
 1.  Overall trend in user engagement throughout the campaign period
 2.  Impact of ad size (banner) on the number of clicks generated
 3.  Publisher spaces (placements) yielding the highest number of displays and clicks
@@ -37,8 +35,8 @@ Analysis Questions
 19. Trends or patterns in post-click conversion rates based on the day of the week
 20. Effectiveness of campaigns throughout different user engagement types in terms of post-click conversions
 
-Output
+**Output:**<br>
 The script will generate various plots and print summaries to the console. Additionally, a PowerPoint presentation containing the output graphs is available in the repository.
 
-License
-No Lisence
+**License**<br>
+No License
