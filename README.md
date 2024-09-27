@@ -1,4 +1,4 @@
-Overview
+Overview:\n
 This project analyzes the performance of online advertising campaigns using a dataset containing various metrics such as user engagement, clicks, displays, cost, revenue, and more. The analysis aims to answer several key questions about the effectiveness of different campaigns, banner sizes, placements, and other factors.
 
 Requirements
